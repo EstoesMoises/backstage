@@ -1,5 +1,11 @@
 # @backstage/plugin-scaffolder-react
 
+## 1.19.3
+
+### Patch Changes
+
+- 886a8a1: Fixed a bug in the Scaffolder's template parsing in the `useTemplateSchema` hook by removing the title instead of setting it to `undefined`
+
 ## 1.19.2
 
 ### Patch Changes
